@@ -6,5 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="palindrome reorder"/>
+	<classpathentry kind="src" path="weird algorithm"/>
+	<classpathentry kind="src" path="missing number"/>
+	<classpathentry kind="src" path="repetitions"/>
+	<classpathentry kind="src" path="increasing array"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
