@@ -10,5 +10,7 @@
 	<classpathentry kind="src" path="missing number"/>
 	<classpathentry kind="src" path="repetitions"/>
 	<classpathentry kind="src" path="increasing array"/>
+	<classpathentry kind="src" path="permutations"/>
+	<classpathentry kind="src" path="number spiral"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
