@@ -12,5 +12,8 @@
 	<classpathentry kind="src" path="increasing array"/>
 	<classpathentry kind="src" path="permutations"/>
 	<classpathentry kind="src" path="number spiral"/>
+	<classpathentry kind="src" path="two knights"/>
+	<classpathentry kind="src" path="two sets"/>
+	<classpathentry kind="src" path="bit strings"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
