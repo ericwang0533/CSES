@@ -15,5 +15,8 @@
 	<classpathentry kind="src" path="two knights"/>
 	<classpathentry kind="src" path="two sets"/>
 	<classpathentry kind="src" path="bit strings"/>
+	<classpathentry kind="src" path="trailing zeros"/>
+	<classpathentry kind="src" path="coin piles"/>
+	<classpathentry kind="src" path="gray code"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
