@@ -1,0 +1,16 @@
+# CSES
+My [CSES](https://cses.fi) solutions
+### [Bit Strings](bit%20strings)
+### [Coin Piles](coin%20piles)
+### [Gray Code](gray%20code)
+### [Increasing Array](increasing%20array)
+### [Missing Number](missing%20number)
+### [Number Spiral](number%20spiral)
+### [Palindrome Reorder](palindrome%20reorder)
+### [Permutations](permutations)
+### [Repetitions](repetitions)
+### [Tower of Hanoi](tower%20of%20hanoi)
+### [Trailing Zeros](trailing%20zeros)
+### [Two Knights](two%20knights)
+### [Two Sets](two%20sets)
+### [Weird Algorithm](weird%20algorithm)
